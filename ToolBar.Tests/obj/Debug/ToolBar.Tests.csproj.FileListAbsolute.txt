@@ -1,0 +1,12 @@
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\obj\Debug\ToolBar.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\obj\Debug\ToolBar.Tests.g.resources
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\bin\Debug\ToolBar.Tests.dll
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\bin\Debug\ToolBar.Tests.pdb
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\bin\Debug\ToolBar.DataAccess.dll
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\bin\Debug\ToolBar.exe
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\bin\Debug\ToolBar.DataAccess.pdb
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\bin\Debug\ToolBar.pdb
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\obj\Debug\ToolBar.Tests.dll
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\obj\Debug\ToolBar.Tests.pdb
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\obj\Debug\ToolBar.Tests.Properties.Resources.resources
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.Tests\obj\Debug\ToolBar.Tests.csproj.GenerateResource.Cache

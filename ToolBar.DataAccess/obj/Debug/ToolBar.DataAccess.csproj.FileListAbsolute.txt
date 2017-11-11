@@ -1,0 +1,5 @@
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.DataAccess\bin\Debug\ToolBar.DataAccess.dll
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.DataAccess\bin\Debug\ToolBar.DataAccess.pdb
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.DataAccess\obj\Debug\ToolBar.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.DataAccess\obj\Debug\ToolBar.DataAccess.dll
+C:\Users\Artemman\Documents\Visual Studio 2013\Projects\ToolBar\ToolBar.DataAccess\obj\Debug\ToolBar.DataAccess.pdb
